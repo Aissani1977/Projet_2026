@@ -1,0 +1,10 @@
+
+
+Etapes pour congifurer GIT pour mettre a jour le depot sur GITHUB
+
+    1- git config list : Affiche la configuration du depot local et sa branche origine.
+    2- git config user.email "aissanikhalida1@gmail.com": ON a associer le repository a lemail du github
+    3- git config user.name : on a associer le repo au nom de github
+
+
+
