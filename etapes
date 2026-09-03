@@ -8,6 +8,11 @@ Etapes pour congifurer GIT pour mettre a jour le depot sur GITHUB
     4- git add
     5- git commit   
     6- git log
+    7- Creer un Token sur github
+    8- sudo apt install libsecret-tools
+    9- which secret-tool
+    10- git config --global credential.helper /usr/lib/git-core/git-credential-libsecret
+    11- git config --global credential.helper
 
 
 
