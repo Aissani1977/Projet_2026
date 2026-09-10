@@ -1,5 +1,5 @@
 
-
+03/08/2026
 Etapes pour congifurer GIT pour mettre a jour le depot sur GITHUB
 
     1- git config list : Affiche la configuration du depot local et sa branche origine.
@@ -13,7 +13,9 @@ Etapes pour congifurer GIT pour mettre a jour le depot sur GITHUB
     9- which secret-tool
     10- git config --global credential.helper /usr/lib/git-core/git-credential-libsecret
     11- git config --global credential.helper
-test
+
+**************
+10/08/2026
 
 
 
